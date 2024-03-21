@@ -1,0 +1,30 @@
+---
+group:
+  - name: Dina Gamous
+    netid: dg634
+  - name: Elizabeth Song
+    netid: eys35
+  - name: In Ju Choi
+    netid: ic323
+  - name: Selin Toker
+    netid: st798
+
+pm:
+  name: Tean Lai
+  netid: tml95
+
+publish: false
+
+title: "Exploding Camels"
+
+git-repo: "https://github.coecis.cornell.edu/eys35/cs3110-final-project"
+
+demo-video-url: ""
+
+desc: >
+  Our project Exploding Camels - a unique twist on the popular card game 
+  "Exploding Kittens" - is a strategic card game about cats and destruction.
+  The deck includes cards such as “Exploding Camel,” “Water,” “Shuffle,” 
+  and “See the Future.” The main goal of the game is to avoid drawing the 
+  “Exploding Camel” card using all the other card types. The player who draws 
+  it is eliminated from the game. 

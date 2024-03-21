@@ -1,0 +1,45 @@
+lib: [
+  "_build/install/default/lib/Lib/META"
+  "_build/install/default/lib/Lib/cards.ml"
+  "_build/install/default/lib/Lib/cards.mli"
+  "_build/install/default/lib/Lib/dune-package"
+  "_build/install/default/lib/Lib/game_status.ml"
+  "_build/install/default/lib/Lib/game_status.mli"
+  "_build/install/default/lib/Lib/gameplay.ml"
+  "_build/install/default/lib/Lib/gameplay.mli"
+  "_build/install/default/lib/Lib/lib.a"
+  "_build/install/default/lib/Lib/lib.cma"
+  "_build/install/default/lib/Lib/lib.cmi"
+  "_build/install/default/lib/Lib/lib.cmt"
+  "_build/install/default/lib/Lib/lib.cmx"
+  "_build/install/default/lib/Lib/lib.cmxa"
+  "_build/install/default/lib/Lib/lib.ml"
+  "_build/install/default/lib/Lib/lib__Cards.cmi"
+  "_build/install/default/lib/Lib/lib__Cards.cmt"
+  "_build/install/default/lib/Lib/lib__Cards.cmti"
+  "_build/install/default/lib/Lib/lib__Cards.cmx"
+  "_build/install/default/lib/Lib/lib__Game_status.cmi"
+  "_build/install/default/lib/Lib/lib__Game_status.cmt"
+  "_build/install/default/lib/Lib/lib__Game_status.cmti"
+  "_build/install/default/lib/Lib/lib__Game_status.cmx"
+  "_build/install/default/lib/Lib/lib__Gameplay.cmi"
+  "_build/install/default/lib/Lib/lib__Gameplay.cmt"
+  "_build/install/default/lib/Lib/lib__Gameplay.cmti"
+  "_build/install/default/lib/Lib/lib__Gameplay.cmx"
+  "_build/install/default/lib/Lib/lib__Player.cmi"
+  "_build/install/default/lib/Lib/lib__Player.cmt"
+  "_build/install/default/lib/Lib/lib__Player.cmti"
+  "_build/install/default/lib/Lib/lib__Player.cmx"
+  "_build/install/default/lib/Lib/opam"
+  "_build/install/default/lib/Lib/player.ml"
+  "_build/install/default/lib/Lib/player.mli"
+]
+libexec: [
+  "_build/install/default/lib/Lib/lib.cmxs"
+]
+bin: [
+  "_build/install/default/bin/Src"
+]
+doc: [
+  "_build/install/default/doc/Lib/README.md"
+]

@@ -1,0 +1,174 @@
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:1:Make test 2.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:1:Make test 2 is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:1:Make test 2.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:3:Make test 4.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:3:Make test 4 is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:3:Make test 4.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:5:shuffle test - 1.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:5:shuffle test - 1 is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:5:shuffle test - 1.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:7:shuffle test - Empty Deck.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:7:shuffle test - Empty Deck is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:7:shuffle test - Empty Deck.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:9:shuffle test - Large Deck.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:9:shuffle test - Large Deck is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:9:shuffle test - Large Deck.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:12:init_deck test - 2.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:12:init_deck test - 2 is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:12:init_deck test - 2.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:14:init_deck test - 8.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:14:init_deck test - 8 is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:14:init_deck test - 8.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:16:See The Future Test 2.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:16:See The Future Test 2 is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:16:See The Future Test 2.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:18:See The Future Test 4.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:18:See The Future Test 4 is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:18:See The Future Test 4.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:20:draw_from_bottom test.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:20:draw_from_bottom test is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:20:draw_from_bottom test.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:22:String of Card 2.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:22:String of Card 2 is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:22:String of Card 2.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:24:String of Card 4.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:24:String of Card 4 is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:24:String of Card 4.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:26:String of Card 6.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:26:String of Card 6 is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:26:String of Card 6.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:28:create test.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:28:create test is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:28:create test.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:30:Add Card Test.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:30:Add Card Test is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:30:Add Card Test.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:31:Add Card Test - Empty Hand.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:31:Add Card Test - Empty Hand is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:31:Add Card Test - Empty Hand.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:34:Remove Card Test.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:34:Remove Card Test is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:34:Remove Card Test.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:35:Remove Card Test - Nonexistent Card.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:35:Remove Card Test - Nonexistent Card is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:35:Remove Card Test - Nonexistent Card.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:38:Remove Card Test - Single Card.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:38:Remove Card Test - Single Card is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:38:Remove Card Test - Single Card.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:39:Has Card Test.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:39:Has Card Test is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:39:Has Card Test.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:41:Has Card Test - Multiple Cards.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:41:Has Card Test - Multiple Cards is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:41:Has Card Test - Multiple Cards.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:43:Get Hand Test - Empty Hand.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:43:Get Hand Test - Empty Hand is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:43:Get Hand Test - Empty Hand.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:45:Get Name Test1.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:45:Get Name Test1 is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:45:Get Name Test1.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:47:Get Name Test - Empty Name.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:47:Get Name Test - Empty Name is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:47:Get Name Test - Empty Name.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:49:Create Player 1.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:49:Create Player 1 is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:49:Create Player 1.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:51:test pop deck 1.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:51:test pop deck 1 is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:51:test pop deck 1.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:53:Pop Deck Test - Empty Deck.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:53:Pop Deck Test - Empty Deck is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:53:Pop Deck Test - Empty Deck.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:55:Draw Card - No Card.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:55:Draw Card - No Card is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:55:Draw Card - No Card.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:57:Draw Card - Another Card.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:57:Draw Card - Another Card is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:57:Draw Card - Another Card.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:59:Remove At Test - Middle Index.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:59:Remove At Test - Middle Index is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:59:Remove At Test - Middle Index.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:61:Remove At Test - Remove First Element.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:61:Remove At Test - Remove First Element is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:61:Remove At Test - Remove First Element.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:63:Remove At Test - Index Out of Range.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:63:Remove At Test - Index Out of Range is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:63:Remove At Test - Index Out of Range.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:65:get_players.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:65:get_players is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:65:get_players.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:67:is_game_start.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:67:is_game_start is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:67:is_game_start.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:69:get_current_player.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:69:get_current_player is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:69:get_current_player.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:71:Test_Bury NonEmpty.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:71:Test_Bury NonEmpty is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:71:Test_Bury NonEmpty.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:73:Test_Bury Same Place.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:73:Test_Bury Same Place is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:73:Test_Bury Same Place.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:75:Test_Bury At End.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:75:Test_Bury At End is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:75:Test_Bury At End.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:77:Test_Bury Random Position.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:77:Test_Bury Random Position is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:77:Test_Bury Random Position.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:79:get_num_player.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:79:get_num_player is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:79:get_num_player.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:81:get_deck.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:81:get_deck is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:81:get_deck.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:83:get_winner.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:83:get_winner is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:83:get_winner.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:85:is_skip_next_turn.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:85:is_skip_next_turn is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:85:is_skip_next_turn.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:87:Play Draw.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:87:Play Draw is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:87:Play Draw.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:89:get_players.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:89:get_players is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:89:get_players.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:91:is_game_start.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:91:is_game_start is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:91:is_game_start.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:93:get_current_player.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:93:get_current_player is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:93:get_current_player.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:95:deck_length test.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:95:deck_length test is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:95:deck_length test.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:97:deck_length test.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:97:deck_length test is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:97:deck_length test.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:99:Set Hand Test - Empty Hand.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:99:Set Hand Test - Empty Hand is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:99:Set Hand Test - Empty Hand.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:101:Count Active Players Test - Empty List.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:101:Count Active Players Test - Empty List is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:101:Count Active Players Test - Empty List.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:103:Count Active Players Test - Some Active Players.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:103:Count Active Players Test - Some Active Players is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:103:Count Active Players Test - Some Active Players.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:105:get_hand_length test 2.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:105:get_hand_length test 2 is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:105:get_hand_length test 2.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:107:get_hand_length test 4.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:107:get_hand_length test 4 is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:107:get_hand_length test 4.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:109:get_hand_length test 6.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:109:get_hand_length test 6 is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:109:get_hand_length test 6.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:111:get_hand_length test 8.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:111:get_hand_length test 8 is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:111:get_hand_length test 8.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:113:get_hand_length test 10.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:113:get_hand_length test 10 is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:113:get_hand_length test 10.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Start test test suite:115:Set Hand Test - Empty Hand.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: Test test suite:115:Set Hand Test - Empty Hand is successful.
+2023-12-16T18:47:28+00:00 Selins-MacBook-Pro.local#02 I: End test test suite:115:Set Hand Test - Empty Hand.

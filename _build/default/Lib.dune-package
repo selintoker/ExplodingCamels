@@ -1,0 +1,83 @@
+(lang dune 3.11)
+(name Lib)
+(sections (lib .) (libexec .) (bin ../../bin) (doc ../../doc/Lib))
+(files
+ (lib
+  (META
+   cards.ml
+   cards.mli
+   dune-package
+   game_status.ml
+   game_status.mli
+   gameplay.ml
+   gameplay.mli
+   lib.a
+   lib.cma
+   lib.cmi
+   lib.cmt
+   lib.cmx
+   lib.cmxa
+   lib.ml
+   lib__Cards.cmi
+   lib__Cards.cmt
+   lib__Cards.cmti
+   lib__Cards.cmx
+   lib__Game_status.cmi
+   lib__Game_status.cmt
+   lib__Game_status.cmti
+   lib__Game_status.cmx
+   lib__Gameplay.cmi
+   lib__Gameplay.cmt
+   lib__Gameplay.cmti
+   lib__Gameplay.cmx
+   lib__Player.cmi
+   lib__Player.cmt
+   lib__Player.cmti
+   lib__Player.cmx
+   opam
+   player.ml
+   player.mli))
+ (libexec (lib.cmxs))
+ (bin (Src))
+ (doc (README.md)))
+(library
+ (name Lib)
+ (kind normal)
+ (archives (byte lib.cma) (native lib.cmxa))
+ (plugins (byte lib.cma) (native lib.cmxs))
+ (native_archives lib.a)
+ (main_module_name Lib)
+ (modes byte native)
+ (modules
+  (wrapped
+   (group
+    (alias
+     (obj_name lib)
+     (visibility public)
+     (kind alias)
+     (source (path Lib) (impl (path lib.ml-gen))))
+    (name Lib)
+    (modules
+     (module
+      (obj_name lib__Cards)
+      (visibility public)
+      (source (path Cards) (intf (path cards.mli)) (impl (path cards.ml))))
+     (module
+      (obj_name lib__Game_status)
+      (visibility public)
+      (source
+       (path Game_status)
+       (intf (path game_status.mli))
+       (impl (path game_status.ml))))
+     (module
+      (obj_name lib__Gameplay)
+      (visibility public)
+      (source
+       (path Gameplay)
+       (intf (path gameplay.mli))
+       (impl (path gameplay.ml))))
+     (module
+      (obj_name lib__Player)
+      (visibility public)
+      (source (path Player) (intf (path player.mli)) (impl (path player.ml))))))
+   (wrapped true))))
